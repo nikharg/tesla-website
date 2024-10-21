@@ -128,9 +128,9 @@
 }
 #cyberLogo {
   position: absolute;
-  top: -4rem;
+  top: -30%;
   width: 8%;
-  right: 175px;
+  right: 45%;
   object-fit: contain;
   /* z-index: 999; */
 }
